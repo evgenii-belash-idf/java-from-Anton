@@ -21,7 +21,7 @@ public class task1_1 {
         }
         for (Integer num : nums) {
             if (num > 1) {
-                System.out.println("Вы ввели число не в двоичной системе");
+                System.out.println("Вы ввели число не в двоичной системе.");
                 break;
             } else {
                 System.out.println("Число в десятичной системе: " + dvoich);
